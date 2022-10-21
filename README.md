@@ -13,10 +13,10 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Rileyj-m&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">Hello Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=ecf05e47hmf62hhmwueh1zyotuzvis60ojqo37c3y8iz6ucu&rid=giphy.gif&ct=g" width="400" height="300"/>
+  <img src="https://media.giphy.com/media/KVIc91lhph6q0eS54S/giphy.gif?cid=ecf05e47p2d0f0zg6xf612l1mua2qyipunb1poo2rxu1loim&rid=giphy.gif&ct=s" width="100" height="100"/>
 </div>
 
 ---
@@ -28,7 +28,7 @@ I am a CS major at the University of Montana currently in my senior year.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Leetcode, golf, and fish.
+- :zap: In my free time I solve problems on Leetcode, golf, and fish.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Riley-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rileymarsden/)
 
