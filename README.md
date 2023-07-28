@@ -22,9 +22,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a CS major at the University of Montana currently in my senior year.
-
-- :telescope: I’m intering as a Software Engineer on MDO Pre-Breach team @ Microsoft.
+I am a CS graduate from The University of Montana.
 
 - :seedling: Exploring Technical Content Writing.
 
